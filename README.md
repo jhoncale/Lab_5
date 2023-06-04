@@ -6,6 +6,12 @@ En la siguiente práctica de laboratorio se tuvo como objetivo principal determi
 ### Cinemática Inversa.
 Se realizó la cinemática inversa del robot Phantom X que posee 4 GDL. Uno de los métodos que facilitan la elaboración de esta cinemática, es combinar el modelo geométrico con el desacople de la muñeca. Esto se hizo con el fin de determinar la conjuración articular del manipulador dada una determinada posición.
 
+![image](https://github.com/jhoncale/Lab_5/assets/38961990/8d626ff8-950f-4fcc-93bf-e3a6975c956c)
+
+![image](https://github.com/jhoncale/Lab_5/assets/38961990/d2b6cc48-b3b6-4acd-a5ec-a18cc5cf9866)
+![image](https://github.com/jhoncale/Lab_5/assets/38961990/70e6027b-b86a-4f45-8556-e36e6eb85041)
+![image](https://github.com/jhoncale/Lab_5/assets/38961990/4411cf6c-78e0-456f-9432-fdd55bd1e872)
+
 
 #### Metodología: 
 
