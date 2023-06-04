@@ -99,3 +99,30 @@ HMI completa seleccionar rutina
   
 ![oprimir rutina](https://github.com/jhoncale/Lab_5/assets/38961990/18c8d4fc-41e9-4bd4-b2c3-2abe7df97f7b)
 
+#### Videos:
+
+
+
+
+https://github.com/jhoncale/Lab_5/assets/38961990/fcc5a4ca-4806-4eb5-a37d-ea6ae739963c
+
+
+
+https://github.com/jhoncale/Lab_5/assets/38961990/64398c9a-bc95-4fe6-80b5-94cb01b2eade
+
+cale/Lab_5/assets/38961990/4cb2cc6e-922b-4070-b016-47f3803471fd
+
+
+https://github.com/jhoncale/Lab_5/assets/38961990/950a9430-1819-4812-99fb-3828e3bda8db
+
+
+
+
+https://github.com/jhoncale/Lab_5/assets/38961990/89810ea1-6628-44c7-8a52-707254ae3d8a
+
+
+
+
+
+https://github.com/jhoncale/Lab_5/assets/38961990/aac7cb60-8365-4ac9-91e5-a803ab8baf47
+
